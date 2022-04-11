@@ -1,0 +1,12 @@
+{
+    "name": "deepfake reporter",
+    "version": "0.2.0",
+    "description": "With Deepfakes on the rise, it is important that if you feel affected by an image or video, you know how to report it. I hope this helps!",
+    "manifest_version": 3,
+    "author": "Airen Bushby",
+    "action":{
+        "default_popup": "home.html",
+        "default_title": "Report"
+    }
+
+}
