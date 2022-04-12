@@ -1,0 +1,25 @@
+
+#body{
+    width: 300px;
+}
+
+#wrapper{
+    font-size: small;
+    color: black;
+    font: sans-serif;
+
+}
+
+#main{
+    padding: 2px;
+}
+
+#nav ul li{
+    display: inline;
+    text-align: center;
+    margin-left:5% ;
+    margin-right:5% ;
+    align-content: center;
+    font-size: 10px;
+    
+}
